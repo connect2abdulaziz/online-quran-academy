@@ -97,7 +97,7 @@ const QuranAcademy = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const mailtoLink = `mailto:kaleemgallo@gmail.com?subject=Free Trial Class Request&body=Name: ${formData.name}%0D%0AEmail: ${formData.email}%0D%0APhone: ${formData.phone}%0D%0AProgram: ${formData.program}%0D%0ALanguage: ${formData.language}%0D%0AMessage: ${formData.message}`;
+    const mailtoLink = `mailto:kaleemullghallo@gmail.com?subject=Free Trial Class Request&body=Name: ${formData.name}%0D%0AEmail: ${formData.email}%0D%0APhone: ${formData.phone}%0D%0AProgram: ${formData.program}%0D%0ALanguage: ${formData.language}%0D%0AMessage: ${formData.message}`;
     window.location.href = mailtoLink;
   };
 
@@ -301,7 +301,7 @@ const QuranAcademy = () => {
               </div>
 
               <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 mb-6">
-                <span className="text-yellow-500">Ustadh Kaleem Gallo</span>
+                <span className="text-yellow-500">Dr. Kaleem Ullah</span>
               </h2>
 
               <p className="text-lg text-slate-600 mb-6 leading-relaxed">
@@ -412,10 +412,10 @@ const QuranAcademy = () => {
               <p className="text-emerald-50">+92 332 222 0000</p>
             </a>
 
-            <a href="mailto:kaleemgallo@gmail.com" className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 hover:bg-white/20 transition-all border border-white/20">
+            <a href="mailto:kaleemullghallo@gmail.com" className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 hover:bg-white/20 transition-all border border-white/20">
               <Mail className="w-8 h-8 mx-auto mb-3" />
               <h3 className="font-bold mb-2">Email Us</h3>
-              <p className="text-emerald-50">kaleemgallo@gmail.com</p>
+              <p className="text-emerald-50">kaleemullghallo@gmail.com</p>
             </a>
 
             <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 border border-white/20">
@@ -507,12 +507,12 @@ const QuranAcademy = () => {
           </p>
 
           <div className="flex flex-wrap justify-center gap-6 text-sm text-gray-300">
-            <a href="mailto:kaleemgallo@gmail.com" className="hover:text-yellow-400 transition-colors">
-              kaleemgallo@gmail.com
+            <a href="mailto:kaleemullghallo@gmail.com" className="hover:text-yellow-400 transition-colors">
+              kaleemullghallo@gmail.com
             </a>
             <span>•</span>
-            <a href="tel:+923322220000" className="hover:text-yellow-400 transition-colors">
-              +92 332 222 0000
+            <a href="tel:+923477878172" className="hover:text-yellow-400 transition-colors">
+              +92 347 787 8172
             </a>
             <span>•</span>
             <span>Dera Ghazi Khan, Pakistan</span>
