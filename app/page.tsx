@@ -406,11 +406,17 @@ const QuranAcademy = () => {
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
-            <a href="tel:+923322220000" className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 hover:bg-white/20 transition-all border border-white/20">
+            <a
+              href="https://wa.me/923322220000"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 hover:bg-white/20 transition-all border border-white/20"
+            >
               <Phone className="w-8 h-8 mx-auto mb-3" />
-              <h3 className="font-bold mb-2">Call Us</h3>
-              <p className="text-emerald-50">+92 347 787 8172</p>
+              <h3 className="font-bold mb-2">WhatsApp Us</h3>
+              <p className="text-emerald-50">+92 332 222 0000</p>
             </a>
+
 
             <a href="mailto:kaleemullghallo@gmail.com" className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 hover:bg-white/20 transition-all border border-white/20">
               <Mail className="w-8 h-8 mx-auto mb-3" />
@@ -511,11 +517,17 @@ const QuranAcademy = () => {
               kaleemullghallo@gmail.com
             </a>
             <span>•</span>
-            <a href="tel:+923477878172" className="hover:text-yellow-400 transition-colors">
+            <a
+              href="https://wa.me/923477878172"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-yellow-400 transition-colors"
+            >
               +92 347 787 8172
             </a>
+
             <span>•</span>
-            <span>Dera Ghazi Khan, Pakistan</span>
+            <span>Islamabad, Pakistan</span>
           </div>
 
           <div className="mt-8 pt-8 border-t border-slate-800 text-sm text-slate-500">
