@@ -409,7 +409,7 @@ const QuranAcademy = () => {
             <a href="tel:+923322220000" className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 hover:bg-white/20 transition-all border border-white/20">
               <Phone className="w-8 h-8 mx-auto mb-3" />
               <h3 className="font-bold mb-2">Call Us</h3>
-              <p className="text-emerald-50">+92 332 222 0000</p>
+              <p className="text-emerald-50">+92 347 787 8172</p>
             </a>
 
             <a href="mailto:kaleemullghallo@gmail.com" className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 hover:bg-white/20 transition-all border border-white/20">
@@ -421,7 +421,7 @@ const QuranAcademy = () => {
             <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 border border-white/20">
               <MapPin className="w-8 h-8 mx-auto mb-3" />
               <h3 className="font-bold mb-2">Location</h3>
-              <p className="text-emerald-50">Dera Ghazi Khan, Pakistan</p>
+              <p className="text-emerald-50">Islamabad, Pakistan</p>
             </div>
           </div>
 
