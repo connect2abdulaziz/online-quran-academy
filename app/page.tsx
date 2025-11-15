@@ -407,14 +407,14 @@ const QuranAcademy = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
             <a
-              href="https://wa.me/923322220000"
+              href="https://wa.me/923477878172"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 hover:bg-white/20 transition-all border border-white/20"
             >
               <Phone className="w-8 h-8 mx-auto mb-3" />
               <h3 className="font-bold mb-2">WhatsApp Us</h3>
-              <p className="text-emerald-50">+92 332 222 0000</p>
+              <p className="text-emerald-50">+92 347 787 8172</p>
             </a>
 
 
